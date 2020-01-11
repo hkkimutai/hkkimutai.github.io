@@ -1,0 +1,66 @@
+#sidebar {
+    background-color: #011936;
+}
+
+#sidebar .text-muted, 
+#sidebar .fab, 
+#sidebar .fas {
+    color: whitesmoke !important;
+}
+
+#sidebar .btn {
+    background-color: whitesmoke;
+    color: #011936;
+    border-color: whitesmoke;
+}
+
+#sidebar .highlight {
+    color: #011936;
+}
+
+#sidebar a i.far {
+    color: white !important;
+}
+
+#skills {
+    background-color: #347FC4;
+}
+
+.heading,
+#skills .h6 {
+    color: whitesmoke;
+}
+
+#skills .bg-blue {
+    background-color: #005E7C;
+}
+
+#experience {
+    background-color: #0094C6;
+}
+
+#experience #timeline,
+#experience p {
+    color: whitesmoke !important;
+}
+
+#experience a {
+    color: #011936;
+}
+
+section.blue {
+    background-color: #005E7C;
+}
+
+#contact {
+    background-color: #0081AF !important;
+}
+
+#contact label {
+    color: whitesmoke;
+}
+
+.exp-position {
+    white-space:normal; 
+    text-align: inherit;
+}
